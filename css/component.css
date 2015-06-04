@@ -29,10 +29,6 @@
 }
 
 /* The date/time */
-.cbp_tmtimeline > li {
-	position: relative;
-}
-
 .cbp_tmtimeline > li .cbp_tmtime {
 	display: block;
 	width: 25%;
